@@ -97,6 +97,7 @@ nav{
 }
 #carouselExampleIndicators{
     padding: 100px;
+    min-width: 400px;
 }
 #fishycenter{
     justify-content: center;
