@@ -54,7 +54,7 @@ nav{
     padding-bottom: 10px;
 }
 .active{
-    background-color: rgba(180, 234, 235, 1);
+    background-color: rgb(180, 254, 245);
 }
 .navbar-brand{
     font-weight: bold;
